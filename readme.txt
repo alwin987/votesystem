@@ -1,6 +1,6 @@
 1.XAMPP
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+2."TEXT EDITO" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
 3"voting management system"
 
